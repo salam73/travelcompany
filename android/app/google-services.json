@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "761546808711",
+    "firebase_url": "https://travel-company-az-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "travel-company-az",
+    "storage_bucket": "travel-company-az.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761546808711:android:cbf5d0f11fbff00e8b8722",
+        "android_client_info": {
+          "package_name": "com.example.travelcompany"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1nQld0lFkKXQvRpnSpdpBC5orpI-FJKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
